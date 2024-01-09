@@ -1,0 +1,19 @@
+# Python
+__pycache__
+*.pyc
+/build
+/*.egg-info
+
+# Editor
+*.swp
+/.vscode
+
+# Tools
+/.venv
+.ipynb_checkpoints
+
+# OS
+/.DS_Store
+
+# Project
+/testreports
